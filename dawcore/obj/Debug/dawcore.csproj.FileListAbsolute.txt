@@ -1,0 +1,16 @@
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\bin\Debug\dawcore.exe.config
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\bin\Debug\dawcore.exe
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\bin\Debug\dawcore.pdb
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.csprojResolveAssemblyReference.cache
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.MainForm.resources
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.csproj.GenerateResource.Cache
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.exe
+C:\Users\lidenx\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.pdb
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.csprojResolveAssemblyReference.cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.MainForm.resources
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.csproj.GenerateResource.Cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\bin\Debug\dawcore.exe.config
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\bin\Debug\dawcore.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\bin\Debug\dawcore.pdb
+C:\Users\inniesharp\Documents\SharpDevelop Projects\dawcore\dawcore\obj\Debug\dawcore.pdb
